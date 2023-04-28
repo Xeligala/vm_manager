@@ -1,0 +1,15 @@
+{
+  "vcenter_data": {
+    "hostname": "ip_or_name_of_host",
+    "user": "username",
+    "password": "your_password"
+  },
+  "vm_info": {
+    "vm_name1": "on",
+    "vm_name2": "on",
+    "vm_name3": "off"
+  },
+  "excludes": [
+    "vm_name2"
+  ]
+}
